@@ -1,0 +1,4 @@
+PREFIX : <https://example.org/ns/example#>
+
+
+_:x a :Unicorn.
